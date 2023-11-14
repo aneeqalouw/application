@@ -2,7 +2,7 @@ let btn = document.querySelector('[data-btn]')
 let output = document.querySelector('#output')
 
 function middle (){
-    let numbers = [12, 18, 11, 5, 8]
+    let numbers = [12, 18, 11, 5, 8, 2]
     //find lenth of array
     let leng = numbers.length 
 
